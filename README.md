@@ -1,1 +1,1 @@
-Here is my 2nd project with using HTML and CSS
+Here is my 2nd project built with  HTML and CSS
